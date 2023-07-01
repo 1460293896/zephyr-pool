@@ -1032,8 +1032,8 @@ sudo su - your-user
 
 git clone https://github.com/dvandal/cryptonote-nodejs-pool.git pool
 cd pool
-
-npm update
+安装
+npm install
 2）配置
 复制config_examples/COIN.json您选择的文件，config.json然后概述每个选项并更改任何选项以匹配您的首选设置。
 
